@@ -1,5 +1,7 @@
 # PixelSolidNavBar-Overlay
 
+![alt text](https://raw.githubusercontent.com/OhMyLob/PixelSolidNavBar-Overlay/master/art/nexus5x.png)
+
 Note: this is tested only on a Nexus 5X
 
 Enable Pixel solid NavBar icons.
